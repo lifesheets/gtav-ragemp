@@ -1,0 +1,14 @@
+{
+    "name": "wixcore-ragemp",
+    "version": "1.0.0",
+    "description": "Grand Theft Auto V - Ігровий мод фреймворк для платформи RAGE MP 1.1.",
+    "main": "index.js",
+    "author": "ua.lifesheets@outlook.com",
+    "license": "MIT",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "mysql": "^2.18.1"
+    }
+}
