@@ -7,7 +7,3 @@ try {
 } catch (err) {
     console.log('[ERROR MYSQL CONNECT]', err);
 }
-
-// (async () => {})();
-
-
